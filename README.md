@@ -118,7 +118,8 @@ Input: [1 1], Predicted: 1
 
 *Screenshot:*
 
-![Output Screenshot](Screenshot_2025-06-22_194309.png)
+![Output Screenshot](![Screenshot 2025-07-01 064655](https://github.com/user-attachments/assets/7ec9190a-2fcd-46ac-a154-fbcd4185bd14)
+)
 
 ---
 
