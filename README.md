@@ -14,6 +14,11 @@ This project implements a **simple Artificial Neural Network (ANN)** using the *
 It is designed for **educational purposes** to demonstrate the internal working of a **binary classifier** using a **step (threshold) activation function**.
 
 ---
+##  Objective
+
+To simulate the learning process of a **Perceptron neural network**, understand weight updates, and test it using simple datasets like logic gates.
+
+---
 
 ##  Algorithm Overview
 
@@ -123,7 +128,7 @@ Input: [1 1], Predicted: 1
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * **Language**: Python 3  
 * **Library**: NumPy  
@@ -131,8 +136,4 @@ Input: [1 1], Predicted: 1
 
 ---
 
-## 📘 Objective
 
-To simulate the learning process of a **Perceptron neural network**, understand weight updates, and test it using simple datasets like logic gates.
-
----
